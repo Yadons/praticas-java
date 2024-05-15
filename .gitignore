@@ -1,3 +1,6 @@
-.idea;
-projeto-java.iml;
-out;
+#ignorar arquivo do itellij IDE.
+.idea
+#ignorar arquivo de saída.
+out
+#ignorar arquivo projeto-java.iml
+projeto-java.iml
