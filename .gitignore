@@ -2,14 +2,16 @@
 *.class
 
 # Arquivos de build Maven
-target/
+/target
 
 # Arquivos de build Gradle
-build/
+/build
 
 # Arquivos de configuração específicos da IDE IntelliJ
-.idea/
+/.idea
 
+# arquivo projeto-java.iml
+*.iml
 # Logs e arquivos temporários
 *.log
 *.tmp
@@ -23,4 +25,4 @@ build/
 *.iws
 
 # Dependências e diretórios baixados
-lib/
+/lib
