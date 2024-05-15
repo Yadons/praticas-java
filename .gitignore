@@ -10,8 +10,6 @@
 # Arquivos de configuração específicos da IDE IntelliJ
 /.idea
 
-# arquivo projeto-java.iml
-*.iml
 # Logs e arquivos temporários
 *.log
 *.tmp
