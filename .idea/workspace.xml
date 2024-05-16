@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="projeto-java:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac211f23-63b6-4ae6-be6e-c1932bc1b5ab" name="Changes" comment="git ignore version 3" />
+    <list default="true" id="ac211f23-63b6-4ae6-be6e-c1932bc1b5ab" name="Changes" comment="git ignore version 3">
+      <change afterPath="$PROJECT_DIR$/src/edu/yago/primeirasemana/UsuarioTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/yago/primeirasemana/escopoCodigo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/yago/primeirasemana/leituraUsuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/yago/primeirasemana/metodos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/yago/primeirasemana/operadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,26 +25,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Yadons"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yadons&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Yadons/praticas-java.git",
-    "accountId": "19cba4a5-99a0-4c46-a896-6d7b7da21fc0"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yadons/praticas-java.git&quot;,
+    &quot;accountId&quot;: &quot;19cba4a5-99a0-4c46-a896-6d7b7da21fc0&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -41,52 +53,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.BoletimEstudantil.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinhaClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinhaClasse.executor&quot;: &quot;Run&quot;,
-    &quot;Application.edu.yago.primeirasemana.MinhaClasse.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/IdeaProjects/estudo-DIO/projeto-java/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.BoletimEstudantil.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MinhaClass.executor": "Run",
+    "Application.MinhaClasse.executor": "Run",
+    "Application.UsuarioTv (1).executor": "Run",
+    "Application.UsuarioTv.executor": "Run",
+    "Application.edu.yago.primeirasemana.MinhaClasse.executor": "Run",
+    "Application.edu.yago.primeirasemana.operadores.executor": "Run",
+    "Application.leituraUsuario.executor": "Run",
+    "Application.metodos (1).executor": "Run",
+    "Application.metodos.executor": "Run",
+    "Application.operadores.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "D:/IdeaProjects/estudo-DIO/projeto-java/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.edu.yago.primeirasemana.MinhaClasse">
-    <configuration name="BoletimEstudantil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.yago.primeirasemana.BoletimEstudantil" />
-      <module name="projeto-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="projeto-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinhaClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.yago.primeirasemana.MinhaClass" />
-      <module name="projeto-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinhaClasse" />
-      <module name="projeto-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="edu.yago.primeirasemana.MinhaClasse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.yago.primeirasemana.MinhaClasse" />
+}]]></component>
+  <component name="RunManager">
+    <configuration name="leituraUsuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.yago.primeirasemana.leituraUsuario" />
       <module name="projeto-java" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +94,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.edu.yago.primeirasemana.MinhaClasse" />
-        <item itemvalue="Application.BoletimEstudantil" />
-        <item itemvalue="Application.MinhaClass" />
-        <item itemvalue="Application.MinhaClasse" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.leituraUsuario" />
       </list>
     </recent_temporary>
   </component>
